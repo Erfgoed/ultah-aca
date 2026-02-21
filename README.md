@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Birthday Surprise Website 🎂🎉
 
 This is a special **Birthday Celebration Website** created using **Next.js, Tailwind CSS, Framer Motion**, and **Lucide Icons**.  
@@ -85,3 +86,6 @@ Thanks for checking out this project! If you liked it, consider giving it a ⭐�
 - The premium code can be used publicly **only if proper credit is given**:  
   `Website idea & code by @anujbuilds`  
 - Without credit or without explicit permission, public use is **not allowed**.
+=======
+# ultah-aca
+>>>>>>> 1ee0195c624a4863f91f6825620ca1ab09c0472f
